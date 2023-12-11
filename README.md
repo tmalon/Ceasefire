@@ -1,3 +1,5 @@
+The file best.pt needs to be downloaded at the following url: https://cloud.irit.fr/s/j3HzVaA6DxUXHbZ and placed in the same folder.
+
 Usage: 
 ```
 python minimal_code.py
